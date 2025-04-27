@@ -1,5 +1,8 @@
 # ec2-start-stop-scheduler
 
+## Architecture
+![alt text](docs/architecture.png)
+
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
